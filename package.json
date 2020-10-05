@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/cmulay/ecommerce-website-coming-soon/issues"
   },
-  "homepage": "https://github.com/cmulay/ecommerce-website-coming-soon#readme"
+  "homepage": "https://github.com/cmulay/ecommerce-website-coming-soon#readme",
+  "dependencies": {}
 }
